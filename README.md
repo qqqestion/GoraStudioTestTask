@@ -10,6 +10,11 @@ and by clicking on one of the users, it shows all photos of selected user (scree
   <img align="center" src="./screenshots/Screenshot_photos.png" alt="Screenshot 2 - user's photos" height="640" width="320">
 </div>
 
+## API
+
+For this app was used [JSONPlaceholder API](http://jsonplaceholder.typicode.com/) which fakes API for testing and
+prototyping.
+
 ## Architecture
 
 The architecture is built around Android Architecture Components. Logic is kept away from Activities and Fragments and
