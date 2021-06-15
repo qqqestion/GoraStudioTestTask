@@ -1,0 +1,2 @@
+rootProject.name = "GoraStudioTask"
+include ':app'

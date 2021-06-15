@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoraStudioTask</string>
+
+    <string name="failure_network">Отсутствует подключение к интернету.</string>
+    <string name="failure_server">Ошибка сервера.</string>
+    <string name="failure_timeout">Время запроса истекло</string>
+</resources>
