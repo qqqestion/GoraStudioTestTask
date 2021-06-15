@@ -5,9 +5,10 @@
 Code test for Android Junior Developer role in GORA Studio. Application displays list of users (screenshot 1)
 and by clicking on one of the users, it shows all photos of selected user (screenshot 2).
 
-
-![Screenshot 1 - users](screenshots/Screenshot_users.png "A list of users")
-![Screenshot 2 - user's photos](screenshots/Screenshot_photos.png "A list of photos")
+<div>
+  <img align="center" src="./screenshots/Screenshot_users.png" alt="Screenshot 1 - users" height="640" width="320">
+  <img align="center" src="./screenshots/Screenshot_photos.png" alt="Screenshot 2 - user's photos" height="640" width="320">
+</div>
 
 ## Architecture
 
